@@ -40,9 +40,9 @@ python3 script_name.py
 
 Compile and deploy the Solidity contract using a suitable environment like Remix or Truffle.
 
-### Contributing
+## Contributing
 Feel free to fork the repository and submit a pull request.
 
-### License
+## License
 This project is open-source and available under the MIT License.
 
